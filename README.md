@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bharath-amaresam
-- 👀 I’m a Passionate Data enthusiast having good knowledge data skills like Excel, Statstics currently doing projects in Power BI to get to know more about Data Visualization.
+- 👀 I’m a Passionate Data Analyst having good knowledge data skills such as Power BI, Excel, Statstics, Python.
 - 🌱 I am currently working on Servicenow technology mianly genreatng reports and handling performance analytics to get insights of requests we have.
 - 📫 Fell free to connect to explore the poer of data with me @saiamaresam@gmail.com
 <!---
