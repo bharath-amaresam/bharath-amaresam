@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-## Connect 
-📫 Feel free to connect with me at @saiamaresam@gmail.com to explore the incredible potential of data!
+## Lets Connect 
+<a href="saiamaresam@gmail.com"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/></a>
 
 <br>
 <br>
@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
 #### Credits
 
 - Icons by <a href="https://icons8.com">Icons8</a>
+<a href="https://www.flaticon.com">Flat Icon</a>
+
