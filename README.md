@@ -3,9 +3,9 @@
 
 👋 Hi there, I'm **@bharath-amaresam!**
 
-👀 I'm a passionate Data Analyst with a strong skill set encompassing Power BI, Excel, Statistics, and Python.
+👀 I'm a Software Engineer and passionate Data Analyst with a strong skill set encompassing Power BI, Excel, Statistics,SQL and Python.
 
-🌱 Currently, I'm deeply involved in leveraging ServiceNow technology, specializing in generating comprehensive reports and steering performance analytics to glean insightful trends and patterns from the requests we manage.
+🌱  Currently, I'm working on building real world data projects, specializing in generating comprehensive reports and steering performance analytics to glean insightful trends and patterns from the requests we manage.
 
 🌍 When I'm not working, I enjoy traveling, Connecting with various NGO's.
 
@@ -23,8 +23,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Lets Connect 
-<a href="mailto:bharath.temp3@gmail.com"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/></a>
-
+<div><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/> <p>bharath.temp3@gmail.com</p></div></n>
+<div><a href= "https://youtu.be/ZkzLYNFPqwk"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c9ba9779-35b7-4f33-b42e-bb1e6a4d1c51" alt="Youtube" width="48" height="48"/></a><p>Youtube</p></div>
+<div><a href= "www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/afb98b22-4278-4a98-888a-92f1ef075246" alt="Linkedin" width="48" height="48"/></a><p>Linkedin</p></div>
 <br>
 <br>
 <br>
