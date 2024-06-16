@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## Lets Connect 
-<a href="saiamaresam@gmail.com"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/></a>
+<a href="mailto:bharath.temp3@gmail.com"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/></a>
 
 <br>
 <br>
