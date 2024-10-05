@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-## Lets Connect 
+## Lets Connect
+<div><a href= "https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand"><img src="https://github.com/user-attachments/assets/06c2eeb7-0c85-4862-bf66-f5c8914634cf" alt="Portfolio" width="48" height="48"/></a><p>MY Portfolio</p></div>
 <div><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c607fb52-ec58-4fea-9e0d-18551fa4f1f7" alt="Gmail" width="48" height="48"/> <p>bharath.temp3@gmail.com</p></div></n>
 <div><a href= "https://youtu.be/ZkzLYNFPqwk"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/c9ba9779-35b7-4f33-b42e-bb1e6a4d1c51" alt="Youtube" width="48" height="48"/></a><p>Youtube</p></div>
 <div><a href= "www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168"><img src="https://github.com/bharath-amaresam/bharath-amaresam/assets/82637423/afb98b22-4278-4a98-888a-92f1ef075246" alt="Linkedin" width="48" height="48"/></a><p>Linkedin</p></div>
