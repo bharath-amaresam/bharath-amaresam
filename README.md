@@ -1,12 +1,10 @@
 
-## 🚀 About Me
-
-👋  Hey there! I'm **Bharath**,
-a Data Analyst with a passion for solving problems and uncovering insights through data. I thrive on learning new technologies and finding innovative ways to tackle challenges.
+## 👋  Hey there! I'm **Bharath**,
+A **`Data Analyst`** with a passion for solving problems and uncovering insights through data. I thrive on learning new technologies and finding innovative ways to tackle challenges.
 
 🌱  Currently, I'm working on building real world data projects, specializing in generating comprehensive reports and steering performance analytics to glean insightful trends and patterns from the requests we manage.
 
-📊 ***Certified as Microsoft Power BI Data analyst Assosiate***
+📊 Certified as **`Microsoft Power BI Data analyst Assosiate`**
 
 <br>
 
