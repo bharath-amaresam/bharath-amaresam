@@ -1,37 +1,32 @@
 
 ## 🚀 About Me
 
-👋  Hey there! I'm **Bharath**, <br/>
+👋  Hey there! I'm **Bharath**,
 a Data Analyst with a passion for solving problems and uncovering insights through data. I thrive on learning new technologies and finding innovative ways to tackle challenges.
 
 🌱  Currently, I'm working on building real world data projects, specializing in generating comprehensive reports and steering performance analytics to glean insightful trends and patterns from the requests we manage.
+
+📊 ***Certified as Microsoft Power BI Data analyst Assosiate***
 
 <br>
 
 ## 🛠️ Here’s what I bring to the table:
 
 ### <ins>💡Data Analytics & Visualization</ins>
-<br/>
 Proficient in tools like Power BI, Excel, and SQL to analyze data, build interactive dashboards, and drive actionable insights.
 Expertise in Python libraries like NumPy, Pandas, matplotlib, and seaborn for advanced data manipulation and visualization
-***Certified as Microsoft Power BI Data analyst Assosiate***
-
 
 ### <ins>🤖 Generative AI & Large Language Models (LLMs)</ins>
-<br/>
 Exploring the cutting-edge world of ChatGPT and generative AI to create innovative solutions and optimize workflows.
 
 ### <ins>💻 Programming Knowledge</ins>
-<br/>
 Skilled in Python, SQL, C, and Web Technologies (HTML, CSS, Bootstrap).
 
 ### <ins>📊 ServiceNow Expertise</ins>
-<br/>
 During my internship i have completed servicenow CSA and CAD certifications
 Specialized in ServiceNow Reporting, Dashboards, and Performance Analytics.
 
 ### <ins>🌍 Beyond Work</ins>
-<br/>
 An active volunteer and lead at WAY Charitable Trust, contributing to social outreach programs since 2020.
 Passionate about traveling and connecting with diverse communities, especially NGOs.
 
