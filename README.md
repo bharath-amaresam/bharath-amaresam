@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ## Lets Connect
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand)
 &emsp;
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](bharath.temp3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto:bharath.temp3@gmail.com)
 &emsp;
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168/)
 &emsp;
