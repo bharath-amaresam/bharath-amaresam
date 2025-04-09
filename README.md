@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 &emsp;
 [![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](bharath.temp3@gmail.com)
 &emsp;
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/bharath-amaresam/bharath-amaresam/blob/main/www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168)
 &emsp;
 [![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/ZkzLYNFPqwk)
 &emsp;
